@@ -12,7 +12,6 @@ class BaseComponent extends Component{
             fiyat:null,
             fotograf:null,
             detay:null,
-            meals:null
         };
     }
 

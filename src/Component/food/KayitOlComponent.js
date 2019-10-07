@@ -11,3 +11,4 @@ class KayitOlComponent extends BaseComponent{
         )
     }
 }
+export default KayitOlComponent;
